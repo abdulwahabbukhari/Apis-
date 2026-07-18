@@ -19,7 +19,7 @@ const limiter = rateLimit({
 app.use(cors());
 
 const routes = [
-    "ytdl", "twitterdl", "moviesdetail", "sinhalasub", "girls-pack", "boobs", "nsfw-corean", "xnxx-dl", "xnxx-search", "tiktok-nsfw", "spotidl", "moviesdl", "moviesearch", "igdl", "fbdl", "ttdl", "gitclone", "spotifydl", "aptoide",
+    "ytdl", "twitterdl",  "sinhalasub", "girls-pack", "boobs", "nsfw-corean", "xnxx-dl", "xnxx-search", "tiktok-nsfw", "spotidl",   "igdl", "fbdl", "ttdl", "gitclone", "spotifydl", "aptoide",
     "githubstalk", "searchgroups", "randommeme", "ttsearch", "ytsearch", "npmsearch", "googlesearch", "duckduckgo",
     "pinterest", "spotifysearch", "gistalk", "llama-3.3-70b-versatile", "blackboxai", "gemini", "ghibliimage",
     "txt2img", "genshinbuild", "tweet", "getpastebin", "ssweb", "translate", "nulis", "cuaca", "qrcodegenerator", "readqr", "emojimix", "removebg", "welcome-goodbye-image", "web2zip",
